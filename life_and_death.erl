@@ -1,7 +1,7 @@
 %%
  % - Create an Earth!
  % - Create some Inhabitants!
- % - Give them a life to live!
+ % - Give them a (100ms) life to live!
  % - Make them sociable!
  %    - if they meet a zombie... they die.
  %    - if they get old... they die.
